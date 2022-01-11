@@ -1,0 +1,4 @@
+int i,y
+read i,y
+sum i+y
+print sum
