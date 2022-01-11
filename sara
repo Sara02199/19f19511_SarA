@@ -1,4 +1,6 @@
-int i,y
+int i,y, difference
 read i,y
 sum i+y
 print sum
+difference i-y
+print difference
