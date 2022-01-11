@@ -1,4 +1,4 @@
-int i,y
-read i,y
-sum i+y
+int x,y
+read x,y
+sum x+y
 print sum
